@@ -14,4 +14,5 @@ int factorial(int n){
 		fac*=n;
 		n=n-1;
 	}
+	return fac;
 }
